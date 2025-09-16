@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MySql Local",
+            "database": "My Portfolio",
+            "username": "root",
+            "password": "rooot",
+            "connectionTimeout": 40
+        }
+    ],
+    "liveServer.settings.port": 5501
+}
